@@ -1,0 +1,16 @@
+.label {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.input {
+    width: 251px;
+    height: 20px;
+    padding-bottom: 7px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: rgb(211, 219, 226);
+    outline: none;
+}

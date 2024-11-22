@@ -1,0 +1,12 @@
+.homeDiv {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 65px;
+}
+
+.title {
+    width: 800px;
+    font-size: 30px;
+}

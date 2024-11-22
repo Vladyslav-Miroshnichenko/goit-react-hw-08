@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    padding-top: 65px;
+    justify-content: center;
+    min-height: 100%vh;
+}
+
+.contactDiv {
+    display: flex;
+    background: white;
+    gap: 20px;
+    padding: 15px 20px 15px 20px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.listDiv {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-left: 20px;
+    border-left: 1px solid black;
+}
+
+.loading {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
